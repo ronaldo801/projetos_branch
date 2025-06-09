@@ -1,3 +1,6 @@
 arroz
 feijão
 carne
+itens de limpesa
+sabao liquido
+esponja
